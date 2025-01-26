@@ -1,16 +1,44 @@
-## Hi there 👋
+# Приветствую! Я AleshaFozu
 
-<!--
-**Fozu7916/fozu7916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Моя цель** — получить больше опыта в программировании.
 
-Here are some ideas to get you started:
+## Мои навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Языки программирования**: C++, JavaScript, C#, Python
+- **Фреймворки и библиотеки**: React, TypeScript, Qt
+- **Инструменты**: HTML, CSS
+
+## Проекты
+
+### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
+
+*HTML*
+
+Персональный сайт-портфолио, демонстрирующий мои навыки и проекты.
+
+### [My-Pet-projecto](https://github.com/Fozu7916/My-Pet-projecto)
+
+*CSS*
+
+Проект на React с использованием TypeScript, направленный на изучение и применение этих технологий.
+
+### [QT-PassGen](https://github.com/Fozu7916/QT-PassGen)
+
+*C++*
+
+Менеджер паролей, разработанный с использованием Qt, обеспечивающий генерацию и хранение безопасных паролей.
+
+### [AllMyCode](https://github.com/Fozu7916/AllMyCode)
+
+*C*
+
+Сборник всех моих кодов и проектов на языке C.
+
+## Контакты
+
+- **Сайт**: [zxcfozu.netlify.app](https://zxcfozu.netlify.app/)
+- **Telegram**: [@Fozyqq](https://t.me/Fozyqq)
+- **Discord**: fozu7916
+- **VK**: [invokedsoul](https://vk.com/invokedsoul)
+
+Буду рад новым знакомствам и совместным проектам!
