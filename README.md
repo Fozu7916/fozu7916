@@ -5,7 +5,7 @@
 ## Мои навыки
 
 - **Языки программирования**: C++, JavaScript, C#, Python
-- **Фреймворки и библиотеки**: React, TypeScript, Qt
+- **Фреймворки и библиотеки**: React, TypeScript, Qt , maUI
 - **Инструменты**: HTML, CSS
 
 ## Проекты
