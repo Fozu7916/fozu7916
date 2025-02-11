@@ -18,7 +18,7 @@
 
 ### [My-Pet-projecto](https://github.com/Fozu7916/My-Pet-projecto)
 
-*CSS*
+*TS*
 
 Проект на React с использованием TypeScript, направленный на изучение и применение этих технологий.
 
