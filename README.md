@@ -14,7 +14,7 @@
 
 ##Password generator
 
-###[Password generator]()
+###[Password generator](https://github.com/Fozu7916/Password-Generator-QT)
 
 ## Login + balance
 
