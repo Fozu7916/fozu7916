@@ -12,9 +12,9 @@
 
 ## C++:
 
-## Password generator
 
-### [Password generator](https://github.com/Fozu7916/Password-Generator-QT)
+
+### [Password generator(qt)](https://github.com/Fozu7916/Password-Generator-QT)
 
 ## Login + balance
 
