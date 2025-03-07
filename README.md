@@ -24,14 +24,6 @@
 
 
 
-### [AllMyCode](https://github.com/Fozu7916/AllMyCode)
-
-*C*
-
-Сборник всех моих кодов и проектов на всех языках которые я использую, включая:
--консольные cpp,cs and .py файлы
--Оконные приложения с++(qt), c#(maui) , Winforms(оба языка)
-
 ## Контакты
 
 - **Сайт**: [zxcfozu.netlify.app](https://zxcfozu.netlify.app/)
