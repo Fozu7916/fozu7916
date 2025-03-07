@@ -14,11 +14,11 @@
 
 ##Password generator
 
-###[Password generator](https://github.com/Fozu7916/Password-Generator-QT)
+### [Password generator](https://github.com/Fozu7916/Password-Generator-QT)
 
 ## Login + balance
 
-###[Login + balance]()
+### [Login + balance]()
 
 ### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
 
