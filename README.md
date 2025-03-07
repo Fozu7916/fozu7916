@@ -12,19 +12,13 @@
 
 ## C++:
 
-
-
 ### [Password generator(qt)](https://github.com/Fozu7916/Password-Generator-QT)
-
-## Login + balance
 
 ### [Login + balance(qt)](https://github.com/Fozu7916/Login-balance-qt-)
 
+## website
+
 ### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
-
-
-Персональный сайт-портфолио, демонстрирующий мои навыки и проекты.
-
 
 ### [My-Pet-projecto](https://github.com/Fozu7916/My-Pet-projecto)
 
