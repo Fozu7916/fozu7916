@@ -10,15 +10,24 @@
 
 ## Проекты
 
+## C++:
+
+##Password generator
+
+###[Password generator]()
+
+## Login + balance
+
+###[Login + balance]()
+
 ### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
 
-*HTML*
 
 Персональный сайт-портфолио, демонстрирующий мои навыки и проекты.
 
+
 ### [My-Pet-projecto](https://github.com/Fozu7916/My-Pet-projecto)
 
-*TS*
 
 Проект на React с использованием TypeScript, направленный на изучение и применение этих технологий.
 
