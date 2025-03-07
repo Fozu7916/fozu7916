@@ -8,11 +8,11 @@
 - **Фреймворки и библиотеки**: React, TypeScript, Qt , maUI(and Avalonia)
 - **Инструменты Верстки**: HTML, CSS
 
-## Проекты
+ Проекты
 
 ## C++:
 
-##Password generator
+## Password generator
 
 ### [Password generator](https://github.com/Fozu7916/Password-Generator-QT)
 
