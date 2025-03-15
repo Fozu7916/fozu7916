@@ -22,10 +22,10 @@
 
 ### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
 
-### [My-Pet-projecto](https://github.com/Fozu7916/My-Pet-projecto)
+### [Login system (React)](https://github.com/Fozu7916/My-Pet-projecto)
 
 
-Проект на React с использованием TypeScript, направленный на изучение и применение этих технологий.
+
 
 
 
