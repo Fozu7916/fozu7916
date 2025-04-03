@@ -19,11 +19,9 @@ Easy-level projects:
 Middle-level projects
 ### [Login + balance(qt)](https://github.com/Fozu7916/Login-balance-qt-)
 
-## Web
+## Web (React)
 
 ### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
-
-### [Login system (React)](https://github.com/Fozu7916/My-Pet-projecto)
 
 
 
