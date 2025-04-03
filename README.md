@@ -9,9 +9,10 @@
 - **Инструменты Верстки**: HTML, CSS
 
  Проекты
-
+ 
 ## C++:
 Easy-level projects:
+### [Console file banking with SQLite3](https://github.com/Fozu7916/Sql-bebe)
 ### [Password generator(qt)](https://github.com/Fozu7916/Password-Generator-QT)
 ### [User Controle (winforms)](https://github.com/Fozu7916/Winforms-User-controle/tree/main)
 
