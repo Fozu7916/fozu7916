@@ -23,7 +23,7 @@ Middle-level projects
 
 ### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
 Middle-level projects
-### [My-social-network](https://github.com/Fozu7916/xxxdiscord)
+### [My-social-network: ALEKSEYBOOK](https://github.com/Fozu7916/xxxdiscord)
 
 
 
