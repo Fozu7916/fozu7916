@@ -12,7 +12,7 @@
  
 ## C++:
 **Решённые задачи на литкоде/яндекс лицее и других олимпиадных платформах**: 
-### [Console file banking with SQLite3](https://github.com/Fozu7916/Sql-bebe)
+### [Алгоритмы]([https://github.com/Fozu7916/Sql-bebe](https://github.com/Fozu7916/algorithms))
 Easy-level projects:
 ### [Console file banking with SQLite3](https://github.com/Fozu7916/Sql-bebe)
 ### [Password generator(qt)](https://github.com/Fozu7916/Password-Generator-QT)
