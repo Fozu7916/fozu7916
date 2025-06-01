@@ -11,7 +11,7 @@
  Проекты
  
 ## C++:
-**Решённые задачи на литкоде**: 
+**Решённые задачи на литкоде/яндекс лицее и других олимпиадных платформах**: 
 ### [Console file banking with SQLite3](https://github.com/Fozu7916/Sql-bebe)
 Easy-level projects:
 ### [Console file banking with SQLite3](https://github.com/Fozu7916/Sql-bebe)
