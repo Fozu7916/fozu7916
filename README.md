@@ -25,7 +25,6 @@ Middle-level projects
 
 ### [My-site-portfolio](https://github.com/Fozu7916/My-site-portfolio)
 Middle-level projects
-## ----------------Closed project----------------------------------------
 ### [My-social-network: ALEKSEYBOOK](https://github.com/Fozu7916/xxxdiscord)
 
 
