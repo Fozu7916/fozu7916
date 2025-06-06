@@ -32,7 +32,7 @@ Middle-level projects
 
 ## Контакты
 
-- **Сайт**: [zxcfozu.netlify.app](https://zxcfozu.netlify.app/)
+- **Сайт**: [Портфолио](https://fozu-portfolio.netlify.app/)
 - **Telegram**: [@Fozyqq](https://t.me/Fozyqq)
 - **Discord**: fozu7916
 - **VK**: [invokedsoul](https://vk.com/invokedsoul)
