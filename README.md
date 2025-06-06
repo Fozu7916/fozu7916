@@ -6,7 +6,6 @@
 
 - **Языки программирования**: C++, JavaScript, C#, Python.
 - **Фреймворки и библиотеки**: React, TypeScript, Qt , maUI(and Avalonia)
-- **Инструменты Верстки**: HTML, CSS
 
  Проекты
  
