@@ -25,6 +25,8 @@
   - [User Control (WinForms)](https://github.com/Fozu7916/Winforms-User-controle/tree/main)
 - **Middle-level**:
   - [Система логина с балансом (QT)](https://github.com/Fozu7916/Login-balance-qt-)
+  - [Плеер для музыки (QT)](https://github.com/Fozu7916/TextRedactor/tree/main)
+  - 
 
 ### Web (React)
 - [Мое портфолио](https://github.com/Fozu7916/My-site-portfolio)
