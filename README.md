@@ -6,9 +6,7 @@
 
 ### Языки и фреймворки
 - **C++**: QT, WinForms, SFML
-- **C#**: Unity, ASP.NET, Avalonia, MAUI
-- **Python**: Django, Flask
-- **JavaScript/TypeScript**: React
+- **C#**: Unity, ASP.NET, Avalonia
 
 ### Дополнительно
 - Постоянное обучение новым технологиям
@@ -19,11 +17,8 @@
 
 ### C++
 - **Алгоритмы**: [Решения задач на LeetCode/Yandex Lyceum](https://github.com/Fozu7916/algorithms)
-- **Easy-level**:
-  - [Консольный банкинг с SQLite3](https://github.com/Fozu7916/Sql-bebe)
+  - [Консольный банкинг(noUI) с SQLite3](https://github.com/Fozu7916/Sql-bebe)
   - [Генератор паролей (QT)](https://github.com/Fozu7916/Password-Generator-QT)
-  - [User Control (WinForms)](https://github.com/Fozu7916/Winforms-User-controle/tree/main)
-- **Middle-level**:
   - [Система логина с балансом (QT)](https://github.com/Fozu7916/Login-balance-qt-)
   - [Плеер для музыки (QT)](https://github.com/Fozu7916/TextRedactor/tree/main)
 
