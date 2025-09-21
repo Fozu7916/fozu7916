@@ -7,6 +7,7 @@
 ### Языки и фреймворки
 - **C++**: QT, WinForms, SFML
 - **C#**: Unity, ASP.NET, Avalonia
+- **JavaScript/TypeScript**: React
 
 ### Дополнительно
 - Постоянное обучение новым технологиям
