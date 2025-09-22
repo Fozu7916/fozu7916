@@ -25,8 +25,7 @@
 
 ### Web (React)
 - [Мое портфолио](https://github.com/Fozu7916/My-site-portfolio)
-- **Middle-level**:
-  - [Социальная сеть: ALEKSEYBOOK](https://github.com/Fozu7916/xxxdiscord)
+- [Социальная сеть: ALEKSEYBOOK](https://github.com/Fozu7916/xxxdiscord)
 
 ## 📱 Контакты
 
