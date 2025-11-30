@@ -30,7 +30,7 @@
 ## 📱 Контакты
 
 - 🌐 [Портфолио](https://fozu-portfolio.netlify.app/)
-- 📱 Telegram: [@Fozyqq](https://t.me/Fozyqq)
+- 📱 Telegram: [@FozuZXC](https://t.me/FozuZXC)
 - 💬 Discord: fozu7916
 - 📘 VK: [invokedsoul](https://vk.com/invokedsoul)
 
