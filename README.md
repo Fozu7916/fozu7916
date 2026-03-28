@@ -31,7 +31,6 @@
 
 - 🌐 [Портфолио](https://fozu-portfolio.netlify.app/)
 - 📱 Telegram: [@FozuZXC](https://t.me/FozuZXC)
-- 💬 Discord: fozu7916
-- 📘 VK: [invokedsoul](https://vk.com/invokedsoul)
+- Mail: alekseylis211@mail.ru
 
 Всегда открыт для новых знакомств и интересных проектов! 🤝
