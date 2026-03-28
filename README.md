@@ -6,7 +6,6 @@
 ## 🚀 Проекты
 
 ### C++
-  - [Множество решённых мной алгоритмов](https://github.com/Fozu7916/algorithms)
   - [Консольный банкинг(noUI) с SQLite3](https://github.com/Fozu7916/Sql-bebe)
   - [Генератор паролей (QT)](https://github.com/Fozu7916/Password-Generator-QT)
   - [Система логина с балансом (QT)](https://github.com/Fozu7916/Login-balance-qt-)
