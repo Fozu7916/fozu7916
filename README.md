@@ -19,6 +19,6 @@
 
 - 🌐 [Портфолио](https://fozu-portfolio.netlify.app/)
 - 📱 Telegram: [@FozuZXC](https://t.me/FozuZXC)
-- Mail: alekseylis211@mail.ru
+- Mail: alekseylis2111@gmail.com
 
 Всегда открыт для новых знакомств и интересных проектов! 🤝
