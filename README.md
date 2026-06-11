@@ -1,19 +1,13 @@
 # 💻 Обо мне 💻 
 
-Я - Fullstack-разработчик и инженер ПО с опытом работы в различных технологиях и фреймворках.
+Я - .net разработчик
 
 
 ## 🚀 Проекты
 
-### C++
-  - [Консольный банкинг(noUI) с SQLite3](https://github.com/Fozu7916/Sql-bebe)
-  - [Система логина с балансом (QT)](https://github.com/Fozu7916/Login-balance-qt-)
-  - [Генератор паролей (QT)](https://github.com/Fozu7916/Password-Generator-QT)
-  - [Плеер для музыки (QT)](https://github.com/Fozu7916/TextRedactor/tree/main)
 
 ### Web (React)
 - [Мое портфолио](https://github.com/Fozu7916/My-site-portfolio)
-- [Социальная сеть: ALEKSEYBOOK](https://github.com/Fozu7916/xxxdiscord)
 
 ## 📱 Контакты
 
