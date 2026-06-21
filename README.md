@@ -18,7 +18,9 @@ I`m Fullstack developer using C# and React JS.Also have experience with olympiad
 
 ### Web (React)
 - [Portfolio](https://github.com/Fozu7916/My-site-portfolio)
-- [Social network: ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)(with C# backend)
+
+### Fullstack (React and C#)
+- [Social network: ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)
 
 ## 📱 Контакты
 
