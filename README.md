@@ -1,19 +1,19 @@
 # 💻 About me 💻 
 
-I`m Fullstack developer using C# and React JS.Also have experience with olympiad programming with C++ and knowledge of Python
+Im Fullstack developer using C# and React JS.Also have experience with olympiad programming with C++ and knowledge of Python
 
 
 
 ## 🚀 Проекты
 
 ### C++
-  - [Bank system with GUI(QT)](https://github.com/Fozu7916/Login-balance-qt)
-  - [Password generator(QT)](https://github.com/Fozu7916/Password-Generator-QT)
-  - [Music player(QT),MVC model use SQL and signal-slot system of QT](https://github.com/Fozu7916/QF_Player)
+  - [Bank system with GUI (Qt)](https://github.com/Fozu7916/Login-balance-qt)
+  - [Password generator (Qt)](https://github.com/Fozu7916/Password-Generator-QT)
+  - [Music player (Qt),MVC model using SQL and signal-slot system of QT](https://github.com/Fozu7916/QF_Player)
 
 ### Python
 
-- [Hacaton project](https://github.com/Fozu7916/HacatonProTechno)
+- [Hacathon project](https://github.com/Fozu7916/HacatonProTechno)
 
 
 ### Web (React)
