@@ -13,12 +13,12 @@ I`m Fullstack developer using C# and React JS.Also have experience with olympiad
 
 ### Python
 
--[Hacaton project](https://github.com/Fozu7916/HacatonProTechno)
+- [Hacaton project](https://github.com/Fozu7916/HacatonProTechno)
 
 
 ### Web (React)
 - [Portfolio](https://github.com/Fozu7916/My-site-portfolio)
-- [Social network: ALEKSEYBOOK](https://github.com/Fozu7916/xxxdiscord)
+- [Social network: ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)(with C# backend)
 
 ## 📱 Контакты
 
