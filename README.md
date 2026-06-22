@@ -1,6 +1,6 @@
 # 💻 About me 💻 
 
-Im Fullstack developer using C# and React JS.Also have experience with olympiad programming with C++ and knowledge of Python
+I`m Fullstack developer using C# and React JS.I also have experience with olympiad programming with C++ and knowledge of Python
 
 
 
