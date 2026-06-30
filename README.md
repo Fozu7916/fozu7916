@@ -37,21 +37,19 @@
 
 # 🚀 Projects
 
+## 💙 Backend
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🚧 **Coming Soon** | ASP.NET Core REST API projects | ASP.NET Core • Entity Framework Core • PostgreSQL • Docker |
+
+---
+
 ## 💙 Fullstack
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🚀 **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)** | Social Network | ASP.NET Core • Entity Framework Core • PostgreSQL • React • TypeScript |
-
----
-
-## ⚙️ C++
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎵 **[QF Player](https://github.com/Fozu7916/QF_Player)** | Music Player | Qt • MVC • SQL |
-| 🏦 **[Bank System](https://github.com/Fozu7916/Login-balance-qt)** | Banking Application | Qt Widgets |
-| 🔐 **[Password Generator](https://github.com/Fozu7916/Password-Generator-QT)** | Desktop Utility | Qt |
 
 ---
 
@@ -63,13 +61,21 @@
 
 ---
 
+## ⚙️ C++ (Previous Experience)
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🎵 **[QF Player](https://github.com/Fozu7916/QF_Player)** | Music Player | Qt • MVC • SQL |
+| 🏦 **[Bank System](https://github.com/Fozu7916/Login-balance-qt)** | Banking Application | Qt Widgets |
+| 🔐 **[Password Generator](https://github.com/Fozu7916/Password-Generator-QT)** | Desktop Utility | Qt |
+
+---
+
 ## 🐍 Python
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | 🐍 **[Hackathon Project](https://github.com/Fozu7916/HacatonProTechno)** | Team Project | Python |
-
----
 
 # 🤝 Connect
 
