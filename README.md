@@ -2,40 +2,6 @@
 
 # Shikin Aleksey
 
-### .NET Backend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=4EA1FF&center=true&vCenter=true&width=650&lines=ASP.NET+Core+%7C+Entity+Framework+Core+%7C+PostgreSQL;React+%2B+TypeScript;Competitive+Programming+with+C%2B%2B"/>
-
-</div>
-
----
-
-## Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker"/>
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts"/>
-</p>
-
-## Other
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,qt,python,linux,git"/>
-</p>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-# Shikin Aleksey
-
 ### 💙 .NET Backend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=700&lines=Building+backend+applications+with+ASP.NET+Core;Entity+Framework+Core+%7C+PostgreSQL+%7C+MySQL;React+%2B+TypeScript;Competitive+Programming+with+C%2B%2B"/>
@@ -131,23 +97,3 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
----
-
-## Connect
-
-<p align="center">
-
-<a href="https://fozu-portfolio.netlify.app">🌐 Portfolio</a> •
-<a href="https://t.me/FozuZXC">Telegram</a> •
-<a href="mailto:alekseylis2111@gmail.com">Email</a> •
-<a href="https://leetcode.com/u/Fozuzzzxxxccc/">LeetCode</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
