@@ -71,7 +71,7 @@
 
 ---
 
-## 🐍 Python
+## 🐍 Python (Previous Experience)
 
 | Project | Description | Stack |
 |---------|-------------|-------|
