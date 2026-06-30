@@ -1,64 +1,63 @@
 <div align="center">
 
-<img width="100%" src="assets/banner.svg"/>
+# Shikin Aleksey
 
-<br>
+### .NET Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=2500&color=4EA1FF&center=true&vCenter=true&width=650&lines=Building+reliable+backend+applications.;ASP.NET+Core+%7C+PostgreSQL+%7C+Docker.;React+%2B+TypeScript."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=4EA1FF&center=true&vCenter=true&width=650&lines=ASP.NET+Core+%7C+Entity+Framework+Core+%7C+PostgreSQL;React+%2B+TypeScript;Competitive+Programming+with+C%2B%2B"/>
 
 </div>
 
 ---
 
-## ⚡ Tech
+## Backend
 
-<div align="center">
-
-### Backend
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker"/>
+</p>
 
-### Frontend
+## Frontend
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,ts"/>
+</p>
 
-### Other
+## Other
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,qt,python,linux,git"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| | |
-|:-:|:-:|
-| <a href="https://github.com/Fozu7916/AlekseyBook"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fozu7916&repo=AlekseyBook&theme=transparent"/></a> | <a href="https://github.com/Fozu7916/QF_Player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fozu7916&repo=QF_Player&theme=transparent"/></a> |
-| <a href="https://github.com/Fozu7916/Login-balance-qt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fozu7916&repo=Login-balance-qt&theme=transparent"/></a> | <a href="https://github.com/Fozu7916/Password-Generator-QT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fozu7916&repo=Password-Generator-QT&theme=transparent"/></a> |
-| <a href="https://github.com/Fozu7916/My-site-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fozu7916&repo=My-site-portfolio&theme=transparent"/></a> | <a href="https://github.com/Fozu7916/HacatonProTechno"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fozu7916&repo=HacatonProTechno&theme=transparent"/></a> |
-
-</div>
+</p>
 
 ---
 
-## 🤝 Connect
+## Featured Projects
 
-<div align="center">
+| Project | Description |
+|---------|-------------|
+| 🚀 **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)** | Social Network • ASP.NET Core • React • PostgreSQL |
+| 🎵 **[QF Player](https://github.com/Fozu7916/QF_Player)** | Desktop music player • Qt • MVC • SQL |
+| 🏦 **[Bank System](https://github.com/Fozu7916/Login-balance-qt)** | Banking desktop application • Qt |
+| 🔐 **[Password Generator](https://github.com/Fozu7916/Password-Generator-QT)** | Password generator • Qt |
+| 🌐 **[Portfolio](https://github.com/Fozu7916/My-site-portfolio)** | Portfolio website • React |
+| 🐍 **[Hackathon Project](https://github.com/Fozu7916/HacatonProTechno)** | Python hackathon solution |
 
-<a href="https://fozu-portfolio.netlify.app">Portfolio</a> •
-<a href="mailto:alekseylis2111@gmail.com">Email</a> •
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://fozu-portfolio.netlify.app">🌐 Portfolio</a> •
 <a href="https://t.me/FozuZXC">Telegram</a> •
+<a href="mailto:alekseylis2111@gmail.com">Email</a> •
 <a href="https://leetcode.com/u/Fozuzzzxxxccc/">LeetCode</a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</p>
