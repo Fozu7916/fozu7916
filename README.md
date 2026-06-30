@@ -1,8 +1,10 @@
 <div align="center">
 
 # Shikin Aleksey
-mail: alekseylis2111gmail.com
-tg: @FozuZXC
+
+📧 **mail:** alekseylis2111@gmail.com  
+💬 **Telegram:** @FozuZXC
+
 ### 💙 .NET Backend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=700&lines=Building+backend+applications+with+ASP.NET+Core;Entity+Framework+Core+%7C+PostgreSQL+%7C+MySQL;React+%2B+TypeScript;Competitive+Programming+with+C%2B%2B"/>
@@ -11,24 +13,24 @@ tg: @FozuZXC
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### Backend
+## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,docker"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,docker&perline=5" width="500"/>
 </p>
 
-### Frontend
+## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts"/>
+<img src="https://skillicons.dev/icons?i=react,ts&perline=2" width="220"/>
 </p>
 
-### Other
+## Other
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,qt,python,linux,git"/>
+<img src="https://skillicons.dev/icons?i=cpp,qt,python,linux,git&perline=5" width="500"/>
 </p>
 
 ---
@@ -39,7 +41,7 @@ tg: @FozuZXC
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🚀 **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)** | Social network | ASP.NET Core • Entity Framework Core • PostgreSQL • React • TypeScript |
+| 🚀 **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)** | Social Network | ASP.NET Core • Entity Framework Core • PostgreSQL • React • TypeScript |
 
 ---
 
@@ -65,7 +67,7 @@ tg: @FozuZXC
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🐍 **[Hackathon Project](https://github.com/Fozu7916/HacatonProTechno)** | Team project | Python |
+| 🐍 **[Hackathon Project](https://github.com/Fozu7916/HacatonProTechno)** | Team Project | Python |
 
 ---
 
