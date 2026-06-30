@@ -1,7 +1,8 @@
 <div align="center">
 
 # Shikin Aleksey
-
+mail: alekseylis2111gmail.com
+tg: @FozuZXC
 ### 💙 .NET Backend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=700&lines=Building+backend+applications+with+ASP.NET+Core;Entity+Framework+Core+%7C+PostgreSQL+%7C+MySQL;React+%2B+TypeScript;Competitive+Programming+with+C%2B%2B"/>
