@@ -2,12 +2,13 @@
 
 # Shikin Aleksey
 
-📧 **mail:** alekseylis2111@gmail.com  
-💬 **Telegram:** @FozuZXC
-
 ### 💙 .NET Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=700&lines=Building+backend+applications+with+ASP.NET+Core;Entity+Framework+Core+%7C+PostgreSQL+%7C+MySQL;React+%2B+TypeScript;Competitive+Programming+with+C%2B%2B"/>
+**ASP.NET Core • Entity Framework Core • PostgreSQL • Docker**
+
+📧 **[Email](mailto:alekseylis2111@gmail.com)** · 💬 **[Telegram](https://t.me/FozuZXC)** · 🌐 **[Portfolio](https://fozu-portfolio.netlify.app)**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=700&lines=Building+backend+applications+with+ASP.NET+Core;REST+APIs+%7C+Entity+Framework+Core+%7C+PostgreSQL;React+%2B+TypeScript;Clean+Architecture+%7C+OOP+%7C+SQL"/>
 
 </div>
 
@@ -15,67 +16,55 @@
 
 # 💻 Tech Stack
 
-## Backend
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,docker&perline=5" width="500"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,docker,react,ts,git,linux&perline=9" width="800"/>
 </p>
 
-## Frontend
+### Backend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts&perline=2" width="220"/>
-</p>
+**C# · .NET · ASP.NET Core · Entity Framework Core · REST API · PostgreSQL · MySQL · Docker**
 
-## Other
+### Frontend
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,qt,python,linux,git&perline=5" width="500"/>
-</p>
+**React · TypeScript**
+
+### Other
+
+**C++ · Qt · Python · Linux · Git**
 
 ---
 
 # 🚀 Projects
 
-## 💙 Backend
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🚧 **Coming Soon** | ASP.NET Core REST API projects | ASP.NET Core • Entity Framework Core • PostgreSQL • Docker |
-
----
-
 ## 💙 Fullstack
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🚀 **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)** | Social Network | ASP.NET Core • Entity Framework Core • PostgreSQL • React • TypeScript |
+| Project                                                           | Description                                                | Stack                                                        |
+| ----------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
+| 🚀 **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)**     | Social network with a modern web interface and backend API | **ASP.NET Core · EF Core · PostgreSQL · React · TypeScript** |
+| 🌐 **[Portfolio](https://github.com/Fozu7916/My-site-portfolio)** | Personal portfolio website                                 | **React · TypeScript**                                       |
 
 ---
 
-## ⚛️ React
+## ⚙️ Previous Experience
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌐 **[Portfolio](https://github.com/Fozu7916/My-site-portfolio)** | Personal Portfolio | React • TypeScript |
-
----
-
-## ⚙️ C++ (Previous Experience)
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎵 **[QF Player](https://github.com/Fozu7916/QF_Player)** | Music Player | Qt • MVC • SQL |
-| 🏦 **[Bank System](https://github.com/Fozu7916/Login-balance-qt)** | Banking Application | Qt Widgets |
-| 🔐 **[Password Generator](https://github.com/Fozu7916/Password-Generator-QT)** | Desktop Utility | Qt |
+| Project                                                                        | Description                                      | Stack                    |
+| ------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------ |
+| 🎵 **[QF Player](https://github.com/Fozu7916/QF_Player)**                      | Desktop music player built with MVC architecture | **C++ · Qt · SQL · MVC** |
+| 🏦 **[Bank System](https://github.com/Fozu7916/Login-balance-qt)**             | Desktop banking application                      | **C++ · Qt Widgets**     |
+| 🔐 **[Password Generator](https://github.com/Fozu7916/Password-Generator-QT)** | Desktop password generation utility              | **C++ · Qt**             |
+| 🐍 **[Hackathon Project](https://github.com/Fozu7916/HacatonProTechno)**       | Team project developed during a hackathon        | **Python**               |
 
 ---
 
-## 🐍 Python (Previous Experience)
+# 🎯 Current Focus
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🐍 **[Hackathon Project](https://github.com/Fozu7916/HacatonProTechno)** | Team Project | Python |
+* Building **backend applications with ASP.NET Core**
+* Designing and developing **REST APIs**
+* Working with **Entity Framework Core & PostgreSQL**
+* Improving **architecture, OOP and database design**
+* Developing fullstack applications with **React + TypeScript**
+
+---
 
 # 🤝 Connect
 
