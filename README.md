@@ -41,7 +41,7 @@
 | Project                                                           | Description                                                | Stack                                                        |
 | ----------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------ |
 | 🚀 **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)**     | Social network with a modern web interface and backend API | **ASP.NET Core · EF Core · PostgreSQL · React · TypeScript** |
-| 🎯 **[IT Career Test]([https://testforit.netlify.app/](https://github.com/Fozu7916/ItTest))**           | Interactive IT career guidance test (14 directions)        | **React · TypeScript · Vite**                                |
+| 🎯 **[IT Career Test]([https://testforit.netlify.app/](https://github.com/Fozu7916/ItTest)**           | Interactive IT career guidance test (14 directions)        | **React · TypeScript · Vite**                                |
 | 🌐 **[Portfolio](https://github.com/Fozu7916/My-site-portfolio)** | Personal portfolio website                                 | **React · TypeScript**                                       |
 
 ---
