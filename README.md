@@ -37,7 +37,7 @@
 
 | Project | Description | Stack & Architecture |
 | :--- | :--- | :--- |
-| **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)**[cite: 3, 4] | Social network backend API & web platform featuring user relations, secure auth, real-time messaging, and interactive feeds.[cite: 3] | **ASP.NET Core · EF Core · PostgreSQL · SignalR · React · TypeScript**[cite: 3] |
+| **[ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)** | Social network backend API & web platform featuring user relations, secure auth, real-time messaging, and interactive feeds. | **ASP.NET Core · EF Core · PostgreSQL · SignalR · React · TypeScript** |
 
 ---
 
@@ -45,9 +45,9 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[IT Career Test](https://github.com/Fozu7916/ItTest)**[cite: 3, 4] | Interactive IT career guidance service analyzing 14 development areas using an algorithmic scoring system.[cite: 4] | **React · TypeScript · Vite**[cite: 3] |
-| **[Developer Portfolio](https://github.com/Fozu7916/My-site-portfolio)**[cite: 4] | Personal responsive portfolio website showcasing engineering projects, interactive UI, and technical stack.[cite: 4] | **React · TypeScript · Vite**[cite: 3] |
-| **[SaunaLending](https://github.com/Fozu7916/SaunaLending)**[cite: 4] | Commercial landing page designed for local service presentation with responsive layout and semantic markup. | **HTML5 · CSS3 · Responsive Design**[cite: 4] |
+| **[IT Career Test](https://github.com/Fozu7916/ItTest)** | Interactive IT career guidance service analyzing 14 development areas using an algorithmic scoring system. | **React · TypeScript · Vite** |
+| **[Developer Portfolio](https://github.com/Fozu7916/My-site-portfolio)** | Personal responsive portfolio website showcasing engineering projects, interactive UI, and technical stack. | **React · TypeScript · Vite** |
+| **[SaunaLending](https://github.com/Fozu7916/SaunaLending)** | Commercial landing page designed for local service presentation with responsive layout and semantic markup. | **HTML5 · CSS3 · Responsive Design** |
 
 ---
 
@@ -55,7 +55,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)**[cite: 3, 4] | Automated media processing pipeline: targeted routine data collection, metric extraction, and scheduled distribution.[cite: 4] | **Python · Async Parsers · Telegram API · VK API**[cite: 1] |
+| **[HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)** | Automated media processing pipeline: targeted routine data collection, metric extraction, and scheduled distribution. | **Python · Async Parsers · Telegram API · VK API** |
 
 ---
 
