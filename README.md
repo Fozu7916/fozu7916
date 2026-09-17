@@ -33,7 +33,7 @@
 
 # 🚀 Featured Projects
 
-## 💙 Fullstack / Backend
+## 💙 Fullstack || Backend || .NET 
 
 | Project | Description | Stack & Architecture |
 | :--- | :--- | :--- |
