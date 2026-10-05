@@ -78,13 +78,6 @@ I build **scalable APIs, real-time services, and data-driven backend systems** u
 
 ---
 
-### 🏠 [SaunaLending](https://github.com/Fozu7916/SaunaLending)
-
-**Responsive commercial landing page**
-
-`HTML5` `CSS3`
-
----
 
 <div align="center">
 
