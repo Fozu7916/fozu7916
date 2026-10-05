@@ -82,4 +82,146 @@ Database design · SQL · Query optimization · Caching · Messaging
 
 **React · TypeScript · Vite**
 
-Used for building and integrating backend-driven web applications
+Used for building and integrating backend-driven web applications.
+
+---
+
+# 🚀 Projects
+
+## 💙 .NET
+
+### [ALEKSEYBOOK](https://github.com/Fozu7916/AlekseyBook)
+
+**Full-stack social network built around a .NET backend.**
+
+A social platform featuring user relationships, feeds, authentication, real-time messaging, and interactive features.
+
+**Engineering highlights:**
+
+* RESTful backend API
+* Authentication & authorization
+* User relationships and social interactions
+* Real-time communication with **SignalR**
+* PostgreSQL data storage
+* Redis caching
+* React / TypeScript frontend
+* Dockerized environment
+
+**Stack**
+
+`C#` `ASP.NET Core` `EF Core` `PostgreSQL` `Redis` `SignalR` `React` `TypeScript` `Docker`
+
+---
+
+# 🌐 Other Projects
+
+### [IT Career Test](https://github.com/Fozu7916/ItTest)
+
+Interactive IT career guidance service analyzing 14 development areas using an algorithmic scoring system.
+
+**Stack:** `React` `TypeScript` `Vite`
+
+---
+
+### [Developer Portfolio](https://github.com/Fozu7916/My-site-portfolio)
+
+Personal responsive portfolio website showcasing engineering projects, interactive UI, and technical stack.
+
+**Stack:** `React` `TypeScript` `Vite`
+
+---
+
+### [SaunaLending](https://github.com/Fozu7916/SaunaLending)
+
+Commercial landing page designed for local service presentation with responsive layout and semantic markup.
+
+**Stack:** `HTML5` `CSS3` `Responsive Design`
+
+---
+
+### [HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)
+
+Automated media processing pipeline for targeted data collection, metric extraction, and scheduled distribution.
+
+**Stack:** `Python` `Async Parsers` `Telegram API` `VK API`
+
+---
+
+# 🎯 Engineering Focus
+
+### Backend
+
+* Scalable REST APIs
+* Real-time communication
+* Asynchronous processing
+* Concurrency
+* Authentication & authorization
+* Performance optimization
+
+### Architecture
+
+* Clean Architecture
+* Domain-Driven Design
+* CQRS
+* SOLID
+* Separation of concerns
+* Testable and maintainable systems
+
+### Data
+
+* PostgreSQL
+* SQL query optimization
+* Database schema design
+* Entity Framework Core
+* Redis caching
+* Data integrity
+
+### Distributed Systems
+
+* Kafka
+* Event-driven architecture
+* Caching
+* Real-time communication
+* Reliable asynchronous workflows
+
+---
+
+# 📚 Currently Learning
+
+Deepening my knowledge of:
+
+**System Design · Distributed Systems · Database Internals · Backend Architecture · Performance Engineering**
+
+---
+
+# 🤝 Connect
+
+<div align="center">
+
+<a href="https://fozu-portfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:alekseylis211@mail.ru">
+<img src="https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white"/>
+</a>
+
+<a href="https://t.me/FozuZXC">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Fozuzzzxxxccc/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Backend Software Engineer
+
+**C# / .NET · Java / Spring Boot · System Design · Distributed Systems**
+
+</div>
