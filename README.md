@@ -10,7 +10,7 @@ I build **scalable APIs, real-time services, and data-driven backend systems** u
 
 📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** · 🌐 **[Portfolio](https://fozu-portfolio.netlify.app)** · 💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer;C%23+%2F+.NET+%7C+Java+%2F+Spring+Boot;REST+APIs+%7C+Real-time+Systems;System+Design+%7C+Databases+%7C+Distributed+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer;C%23+%2F+.NET+%7C+Java+%2F+Spring+Boot;REST+APIs+%7C+Real-time+Systems;System+Design+%7C+Distributed+Systems"/>
 
 </div>
 
@@ -32,31 +32,15 @@ I build **scalable APIs, real-time services, and data-driven backend systems** u
 <img src="https://skillicons.dev/icons?i=java,spring&perline=2" height="50"/>
 </p>
 
-**Java · Spring Boot · Kafka**
+**Java · Spring Boot**
 
-### 🗄️ Data & Messaging
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka&perline=3" height="50"/>
-</p>
-
-**PostgreSQL · Redis · Kafka**
-
-### 🏗️ Infrastructure
+### ⚙️ Ecosystem & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,nginx&perline=4" height="50"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,linux,git,nginx,react,ts,vite&perline=10" height="50"/>
 </p>
 
-**Docker · Linux · Git · Nginx · CI/CD**
-
-### 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,vite&perline=3" height="50"/>
-</p>
-
-**React · TypeScript · Vite**
+**PostgreSQL · Redis · Kafka · Docker · Linux · Git · Nginx · React · TypeScript · Vite**
 
 ---
 
@@ -86,7 +70,7 @@ I build **scalable APIs, real-time services, and data-driven backend systems** u
 
 ---
 
-### 🔥 [HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)
+### ⚡ [HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)
 
 **Automated media processing and data collection pipeline**
 
@@ -106,6 +90,6 @@ I build **scalable APIs, real-time services, and data-driven backend systems** u
 
 ### Backend Software Engineer
 
-**C# / .NET · Java / Spring Boot · PostgreSQL · Distributed Systems**
+**C# / .NET · Java / Spring Boot · System Design**
 
 </div>
