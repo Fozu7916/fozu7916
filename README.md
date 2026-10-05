@@ -46,11 +46,27 @@ I build **scalable APIs, real-time services, and data-driven backend systems** u
 
 # 🚀 Projects
 
+### 🛰️ [DroneLiDAR](https://github.com/Fozu7916/LidarMVP)
+
+**LiDAR point-cloud processing & volume analysis system**
+
+`C#` `.NET` `LAS/LAZ` `ICP` `DEM` `3D Visualization`
+
+---
+
 ### 💙 [AlekseyBook](https://github.com/Fozu7916/AlekseyBook)
 
 **Social network backend & web platform**
 
 `ASP.NET Core` `EF Core` `PostgreSQL` `SignalR` `Redis` `React` `TypeScript`
+
+---
+
+### ⚡ [HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)
+
+**Automated media processing and data collection pipeline**
+
+`Python` `Async` `Telegram API` `VK API`
 
 ---
 
@@ -69,15 +85,6 @@ I build **scalable APIs, real-time services, and data-driven backend systems** u
 `React` `TypeScript` `Vite`
 
 ---
-
-### ⚡ [HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)
-
-**Automated media processing and data collection pipeline**
-
-`Python` `Async` `Telegram API` `VK API`
-
----
-
 
 <div align="center">
 
