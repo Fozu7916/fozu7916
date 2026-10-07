@@ -1,95 +1,56 @@
 <div align="center">
 
-# Shikin Aleksey
+# Aleksey Shikin
 
-### 💙 Backend Software Engineer
+### Backend Developer · C# / .NET · Java / Spring Boot
 
-I build **scalable APIs, real-time services, and data-driven backend systems** using **C#/.NET and Java/Spring Boot**.
+Student at Tomsk Polytechnic University (Software Engineering, top-15 technical university in Russia).
+I build **APIs, real-time services and data-driven backend systems** with **C#/.NET and Java/Spring Boot**.
+Currently working on a real-time messenger backend (offline-first sync, idempotent delivery).
 
-**System Design · Distributed Systems · Databases · Performance**
-
-📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** · 🌐 **[Portfolio](https://fozu-portfolio.netlify.app)** · 💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=4EA1FF&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer;C%23+%2F+.NET+%7C+Java+%2F+Spring+Boot;REST+APIs+%7C+Real-time+Systems;System+Design+%7C+Distributed+Systems"/>
+📧 [Email](mailto:alekseylis211@mail.ru) · 💬 [Telegram](https://t.me/FozuZXC) · 🌐 [Portfolio](https://fozu-portfolio.netlify.app) · 💻 [LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### 🔷 C# / .NET
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/>
-</p>
-
-**C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR**
-
-### ☕ Java / Spring
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring&perline=2" height="50"/>
-</p>
-
-**Java · Spring Boot**
-
-### ⚙️ Ecosystem & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,linux,git,nginx,react,ts,vite&perline=10" height="50"/>
-</p>
-
-**PostgreSQL · Redis · Kafka · Docker · Linux · Git · Nginx · React · TypeScript · Vite**
+**.NET:** C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR · LINQ · xUnit
+**Java:** Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Stream API · Multithreading · JUnit · Maven / Gradle
+**Data & Messaging:** PostgreSQL · Redis · Kafka
+**Infrastructure:** Docker · Linux · Nginx · Git · GitHub Actions
+**Frontend:** React · TypeScript · Vite
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
+
+### 💬 Messenger backend *(in progress)*
+Offline-first messenger: SignalR + REST, PostgreSQL, Redis backplane, S3 presigned uploads.
+Focus: idempotent message delivery, server-side sync cursor, integration tests.
+`ASP.NET Core` `SignalR` `PostgreSQL` `Redis` `Docker`
 
 ### 🛰️ [DroneLiDAR](https://github.com/Fozu7916/LidarMVP)
-
-**LiDAR point-cloud processing & volume analysis system**
-
-`C#` `.NET` `LAS/LAZ` `ICP` `DEM` `3D Visualization`
-
----
-
-### 💙 [AlekseyBook](https://github.com/Fozu7916/AlekseyBook)
-
-**Social network backend & web platform**
-
-`ASP.NET Core` `EF Core` `PostgreSQL` `SignalR` `Redis` `React` `TypeScript`
-
----
+Local tool for reproducible comparison of LAS/LAZ point-cloud epochs: cut/fill volumes, ICP registration, DEM, SHA-256 result manifest.
+`C#` `.NET` `ICP` `DEM` `WebGL`
 
 ### ⚡ [HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)
+Content collection, analytics and publishing pipeline (VK / Telegram). Hackathon project that led to a job offer from Apogey 1C.
+`Python` `Telegram API` `VK API`
 
-**Automated media processing and data collection pipeline**
+### 💙 [AlekseyBook](https://github.com/Fozu7916/AlekseyBook) *(legacy MVP)*
+Social network: profiles, friends, posts, real-time chat. To be rewritten on Java / Spring Boot.
+`ASP.NET Core` `EF Core` `MySQL` `SignalR` `React`
 
-`Python` `Async` `Telegram API` `VK API`
-
----
-
-### 🧪 [IT Career Test](https://github.com/Fozu7916/ItTest)
-
-**Interactive IT career guidance service with algorithmic scoring**
-
-`React` `TypeScript` `Vite`
+<sub>Also: [IT Career Test](https://github.com/Fozu7916/ItTest) · [Portfolio site](https://github.com/Fozu7916/My-site-portfolio) (React + TypeScript)</sub>
 
 ---
 
-### 🌐 [Developer Portfolio](https://github.com/Fozu7916/My-site-portfolio)
+## 🏆 Highlights
 
-**Personal portfolio website**
-
-`React` `TypeScript` `Vite`
-
----
-
-<div align="center">
-
-### Backend Software Engineer
-
-**C# / .NET · Java / Spring Boot · System Design**
-
-</div>
+- Finalist of 5 national math olympiads and 10+ computer science olympiads
+- 30+ conference talks, 2nd place at the "Leonardo" All-Russian conference
+- Job offer from Apogey 1C after a hackathon (≈60% of teams eliminated)
+- English B2 (British Council)
+- Powerlifting: 400 kg total at 82 kg bodyweight (training bests)
