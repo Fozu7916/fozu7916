@@ -99,7 +99,6 @@ Focus: idempotent message delivery, server-side sync cursor, integration tests.
 - 30+ conference talks, 2nd place at the "Leonardo" All-Russian conference
 - Job offer from Apogey 1C after a hackathon (≈60% of teams eliminated)
 - English B2 (British Council)
-- Powerlifting: 400 kg total at 82 kg bodyweight (training bests)
 
 ---
 
