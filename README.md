@@ -2,11 +2,12 @@
 
 # Aleksey Shikin
 
-### 💙 Backend Developer · C# / .NET · Java / Spring Boot
+### Backend Developer · C# / .NET
 
-Student at Tomsk Polytechnic University (Software Engineering, top-15 technical university in Russia).
-I build **APIs, real-time services and data-driven backend systems** with **C#/.NET and Java/Spring Boot**.
-Currently working on a real-time messenger backend (offline-first sync, idempotent delivery).
+Software Engineering student at Tomsk Polytechnic University.
+I build **APIs, real-time services and data-driven backend systems** on **ASP.NET Core**.
+Currently working on an offline-first messenger backend (idempotent delivery, server-side sync).
+Learning Java / Spring Boot as a second stack.
 
 📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** · 🌐 **[Portfolio](https://fozu-portfolio.netlify.app)** · 💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
 
@@ -14,31 +15,12 @@ Currently working on a real-time messenger backend (offline-first sync, idempote
 
 ---
 
-# 🛠️ Tech Stack
+# 🏆 Highlights
 
-### 🔷 C# / .NET
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/>
-</p>
-
-**C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR · LINQ · xUnit**
-
-### ☕ Java / Spring
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring&perline=2" height="50"/>
-</p>
-
-**Java · Spring Boot · Spring Security · Spring Data JPA · Hibernate · Stream API · Multithreading · JUnit · Maven / Gradle**
-
-### ⚙️ Ecosystem & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,docker,linux,git,nginx,githubactions,react,ts,vite&perline=11" height="50"/>
-</p>
-
-**PostgreSQL · Redis · Kafka · Docker · Linux · Nginx · Git · GitHub Actions · React · TypeScript · Vite**
+- Finalist of 5 national math olympiads and 10+ computer science olympiads
+- Job offer from Apogey 1C after a hackathon (≈60% of teams eliminated)
+- 30+ conference talks, 2nd place at the "Leonardo" All-Russian conference
+- English B2 (British Council)
 
 ---
 
@@ -47,9 +29,13 @@ Currently working on a real-time messenger backend (offline-first sync, idempote
 ### 💬 Messenger backend *(in progress)*
 
 **Offline-first messenger: SignalR + REST, PostgreSQL, Redis backplane, S3 presigned uploads.**
-Focus: idempotent message delivery, server-side sync cursor, integration tests.
 
-`ASP.NET Core` `SignalR` `PostgreSQL` `Redis` `Docker`
+- Idempotent message delivery: retries from the client never create duplicates
+- Server-side sync cursor: a client that was offline gets exactly the messages it missed
+- Integration tests against a real PostgreSQL and Redis in Docker
+<!-- Add 1-2 facts you can back up: CI status badge, number of tests, load test result, where it is deployed -->
+
+`ASP.NET Core` `SignalR` `PostgreSQL` `Redis` `Docker` `xUnit`
 
 ---
 
@@ -63,7 +49,7 @@ Focus: idempotent message delivery, server-side sync cursor, integration tests.
 
 ### ⚡ [HacatonProTechno](https://github.com/Fozu7916/HacatonProTechno)
 
-**Content collection, analytics and publishing pipeline (VK / Telegram). Hackathon project that led to a job offer from Apogey 1C.**
+**Content collection, analytics and publishing pipeline (VK / Telegram).** Hackathon project that led to a job offer from Apogey 1C.
 
 `Python` `Telegram API` `VK API`
 
@@ -71,41 +57,38 @@ Focus: idempotent message delivery, server-side sync cursor, integration tests.
 
 ### 💙 [AlekseyBook](https://github.com/Fozu7916/AlekseyBook) *(legacy MVP)*
 
-**Social network: profiles, friends, posts, real-time chat. To be rewritten on Java / Spring Boot.**
+**Social network: profiles, friends, posts, real-time chat.** Early project, planned rewrite on Java / Spring Boot.
 
 `ASP.NET Core` `EF Core` `MySQL` `SignalR` `React`
 
 ---
 
-### 🧪 [IT Career Test](https://github.com/Fozu7916/ItTest)
+# 🛠️ Tech Stack
 
-**Interactive IT career guidance service with algorithmic scoring**
+### 🔷 Primary: C# / .NET
 
-`React` `TypeScript` `Vite`
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/>
+</p>
 
----
+**C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR · LINQ · xUnit**
 
-### 🌐 [Developer Portfolio](https://github.com/Fozu7916/My-site-portfolio)
+### 🗄️ Data & Infrastructure
 
-**Personal portfolio website**
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions&perline=6" height="50"/>
+</p>
 
-`React` `TypeScript` `Vite`
+**PostgreSQL · Redis · Docker · Linux · Git · GitHub Actions**
 
----
+### ☕ Learning: Java / Spring Boot
 
-# 🏆 Highlights
-
-- Finalist of 5 national math olympiads and 10+ computer science olympiads
-- 30+ conference talks, 2nd place at the "Leonardo" All-Russian conference
-- Job offer from Apogey 1C after a hackathon (≈60% of teams eliminated)
-- English B2 (British Council)
+Java, Spring Boot (university course + rewrite of AlekseyBook planned).
 
 ---
 
 <div align="center">
 
-### Backend Developer
-
-**C# / .NET · Java / Spring Boot**
+### Backend Developer · C# / .NET
 
 </div>
