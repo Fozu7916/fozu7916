@@ -1,13 +1,13 @@
-<div align="center">
+ <div align="center">
 
 # Aleksey Shikin
 
 ### Backend Developer · C# / .NET
 
-Software Engineering student at Tomsk Polytechnic University.
-I build **APIs, real-time services and data-driven backend systems** on **ASP.NET Core**.
-Currently working on an offline-first messenger backend (idempotent delivery, server-side sync).
-Learning Java / Spring Boot as a second stack.
+Software Engineering student at Tomsk Polytechnic University.  
+I build **APIs, real-time services and data-driven backend systems** on **ASP.NET Core**.  
+Currently working on an offline-first messenger backend (idempotent delivery, server-side sync).  
+**Next up: Go for high-performance backend services and concurrent systems.**
 
 📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** · 🌐 **[Portfolio](https://fozu-portfolio.netlify.app)** · 💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
 
@@ -33,7 +33,6 @@ Learning Java / Spring Boot as a second stack.
 - Idempotent message delivery: retries from the client never create duplicates
 - Server-side sync cursor: a client that was offline gets exactly the messages it missed
 - Integration tests against a real PostgreSQL and Redis in Docker
-<!-- Add 1-2 facts you can back up: CI status badge, number of tests, load test result, where it is deployed -->
 
 `ASP.NET Core` `SignalR` `PostgreSQL` `Redis` `Docker` `xUnit`
 
@@ -57,7 +56,7 @@ Learning Java / Spring Boot as a second stack.
 
 ### 💙 [AlekseyBook](https://github.com/Fozu7916/AlekseyBook) *(legacy MVP)*
 
-**Social network: profiles, friends, posts, real-time chat.** Early project, planned rewrite on Java / Spring Boot.
+**Social network: profiles, friends, posts, real-time chat.** Early project built with ASP.NET Core.
 
 `ASP.NET Core` `EF Core` `MySQL` `SignalR` `React`
 
@@ -81,14 +80,7 @@ Learning Java / Spring Boot as a second stack.
 
 **PostgreSQL · Redis · Docker · Linux · Git · GitHub Actions**
 
-### ☕ Learning: Java / Spring Boot
+### 🐹 Next: Go
 
-Java, Spring Boot (university course + rewrite of AlekseyBook planned).
+Planning to learn **Go** with a focus on concurrency, network services, and scalable backend systems.
 
----
-
-<div align="center">
-
-### Backend Developer · C# / .NET
-
-</div>
