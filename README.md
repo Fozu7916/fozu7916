@@ -26,7 +26,7 @@ Currently working on an offline-first messenger backend (idempotent delivery, se
 
 # 🚀 Projects
 
-### 💬 Messenger backend *(in progress)*
+### 💬 Messenger backend[https://github.com/Fozu7916/Messenger1]
 
 **Offline-first messenger: SignalR + REST, PostgreSQL, Redis backplane, S3 presigned uploads.**
 
