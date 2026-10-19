@@ -1,7 +1,7 @@
 <div align="center">
 
 # Aleksey Shikin
-
+site - fozu-dev.site
 ### Backend Developer · C# / .NET
 
 Software Engineering student at Tomsk Polytechnic University.  
@@ -9,7 +9,7 @@ I build **APIs, real-time services and data-driven backend systems** on **ASP.NE
 Currently working on an offline-first messenger backend (idempotent delivery, server-side sync).  
 **Next up: Go and cloud-native infrastructure (message brokers, Kubernetes, AWS).**
 
-📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** · 🌐 **[Portfolio](https://fozu-portfolio.netlify.app)** · 💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
+📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** ·  💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
 
 </div>
 
