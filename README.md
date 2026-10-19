@@ -62,59 +62,30 @@ Currently working on an offline-first messenger backend (idempotent delivery, se
 
 ---
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
+🔷 Primary: C# / .NET
+<p> <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/> </p>
 
-### 🔷 Primary: C# / .NET
+C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR · LINQ · xUnit
 
-<p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/>
-</p>
+🗄️ Data & Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions&perline=6" height="50"/> </p>
 
-**C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR · LINQ · xUnit**
+PostgreSQL · Redis · Docker · Linux · Git · GitHub Actions
 
-### 🗄️ Data & Infrastructure
+🎨 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" height="50"/> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions&perline=6" height="50"/>
-</p>
+HTML · CSS · JavaScript · TypeScript · React · Vite
 
-**PostgreSQL · Redis · Docker · Linux · Git · GitHub Actions**
+🧭 Learning right now
 
----
+Going from one well-structured service to distributed, observable, cloud-deployed systems, and applying every step to the messenger backend.
 
-# 🧭 Learning rigth now
-
-I'm extending the stack from a single well-structured service to **distributed, observable and cloud-deployed systems**. The goal is to apply each step to a real project (first of all, the messenger backend), not just to read about it.
-
-### 🐹 1. Go: concurrency and network services
-
-<p>
-<img src="https://skillicons.dev/icons?i=golang&perline=1" height="50"/>
-</p>
-
-Goroutines, channels, `context`, worker pools, HTTP/gRPC services. Plan: rewrite a performance-critical part of the messenger (e.g. a fan-out/notification service) in Go and compare it with the .NET version.
-
-
-<p>
-<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&perline=2" height="50"/>
-</p>
-
-**Kafka** (partitions, consumer groups, delivery guarantees, outbox pattern) and **RabbitMQ** (exchanges, queues, retries, dead-letter queues). Plan: move message delivery events and notifications from in-process handling to a broker.
-
-<p>
-<img src="https://skillicons.dev/icons?i=nginx,mongodb&perline=2" height="50"/>
-</p>
-
-**Nginx** as a reverse proxy and load balancer (TLS, rate limiting, WebSocket proxying for SignalR). **MongoDB** for document-style data, to understand where it fits next to PostgreSQL.
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform&perline=3" height="50"/>
-</p>
-
-**AWS** (EC2, S3, RDS, SQS/SNS, IAM), **Kubernetes** (deployments, services, ingress, probes, autoscaling) and **Terraform** for reproducible infrastructure.
-
-<p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=2" height="50"/>
-</p>
-
-**Prometheus + Grafana** for metrics and dashboards, **OpenTelemetry** for tracing across services, structured logging.
+<p> <img src="https://skillicons.dev/icons?i=golang,kafka,rabbitmq,nginx,mongodb,aws,kubernetes,terraform,prometheus,grafana&perline=10" height="50"/> </p>
+	Topic	What I'm doing with it
+🐹	Go	Goroutines, channels, context. Rewriting the notification fan-out in Go to benchmark against .NET
+📨	Kafka · RabbitMQ	Outbox pattern, consumer groups, retries, DLQ. Moving delivery events out of the process into a broker
+🚦	Nginx · MongoDB	Reverse proxy + load balancing for SignalR WebSockets. Document storage next to PostgreSQL
+☁️	AWS · Kubernetes · Terraform	EC2, S3, RDS, SQS/SNS, IAM. Deployments, ingress, autoscaling. Infrastructure as code
+📊	Prometheus · Grafana · OpenTelemetry	Metrics, dashboards, tracing across services
