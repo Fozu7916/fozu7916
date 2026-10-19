@@ -83,9 +83,12 @@ HTML · CSS · JavaScript · TypeScript · React · Vite
 Going from one well-structured service to distributed, observable, cloud-deployed systems, and applying every step to the messenger backend.
 
 <p> <img src="https://skillicons.dev/icons?i=golang,kafka,rabbitmq,nginx,mongodb,aws,kubernetes,terraform,prometheus,grafana&perline=10" height="50"/> </p>
-	Topic	What I'm doing with it
-🐹	Go	Goroutines, channels, context. Rewriting the notification fan-out in Go to benchmark against .NET
-📨	Kafka · RabbitMQ	Outbox pattern, consumer groups, retries, DLQ. Moving delivery events out of the process into a broker
-🚦	Nginx · MongoDB	Reverse proxy + load balancing for SignalR WebSockets. Document storage next to PostgreSQL
-☁️	AWS · Kubernetes · Terraform	EC2, S3, RDS, SQS/SNS, IAM. Deployments, ingress, autoscaling. Infrastructure as code
-📊	Prometheus · Grafana · OpenTelemetry	Metrics, dashboards, tracing across services
+
+
+| | Topic | What I'm doing with it |
+|---|---|---|
+| 🐹 | **Go** | Goroutines, channels, `context`. Rewriting the notification fan-out in Go to benchmark against .NET |
+| 📨 | **Kafka · RabbitMQ** | Outbox pattern, consumer groups, retries, DLQ. Moving delivery events out of the process into a broker |
+| 🚦 | **Nginx · MongoDB** | Reverse proxy + load balancing for SignalR WebSockets. Document storage next to PostgreSQL |
+| ☁️ | **AWS · Kubernetes · Terraform** | EC2, S3, RDS, SQS/SNS, IAM. Deployments, ingress, autoscaling. Infrastructure as code |
+| 📊 | **Prometheus · Grafana · OpenTelemetry** | Metrics, dashboards, tracing across services |
