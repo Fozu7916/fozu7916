@@ -1,7 +1,7 @@
 <div align="center">
 
 # Aleksey Shikin
-My site - [fozu-dev.site](fozu-dev.site)
+My site - [fozu-dev.site](https://fozu-dev.site)
 ### Backend Developer · C# / .NET
 
 Software Engineering student at Tomsk Polytechnic University.  
