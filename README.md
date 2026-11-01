@@ -80,10 +80,7 @@ HTML · CSS · JavaScript · TypeScript · React · Vite
 
 🧭 Learning right now
 
-Going from one well-structured service to distributed, observable, cloud-deployed systems, and applying every step to the messenger backend.
-
 <p> <img src="https://skillicons.dev/icons?i=golang,kafka,rabbitmq,nginx,mongodb,aws,kubernetes,terraform,prometheus,grafana&perline=10" height="50"/> </p>
-
 
 | | Topic | What I'm doing with it |
 |---|---|---|
