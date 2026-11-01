@@ -62,18 +62,18 @@ Currently working on an offline-first messenger backend (idempotent delivery, se
 
 ---
 
-🛠️ Tech Stack
-🔷 Primary: C# / .NET
+## 🛠️ Tech Stack 
+# 🔷 Primary: C# / .NET
 <p> <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/> </p>
 
 C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR · LINQ · xUnit
 
-🗄️ Data & Infrastructure
+# 🗄️ Data & Infrastructure
 <p> <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions&perline=6" height="50"/> </p>
 
 PostgreSQL · Redis · Docker · Linux · Git · GitHub Actions
 
-🎨 Frontend
+# 🎨 Frontend
 <p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" height="50"/> </p>
 
 HTML · CSS · JavaScript · TypeScript · React · Vite
