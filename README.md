@@ -26,15 +26,22 @@ Currently working on an offline-first messenger backend (idempotent delivery, se
 
 # 🚀 Projects
 
-### 💬 [Messenger backend](https://github.com/Fozu7916/Messenger1)
+### 💬 [Messenger — Full-Stack Web Messenger](https://github.com/Fozu7916/Messenger1)
 
-**Offline-first messenger: SignalR + REST, PostgreSQL, Redis backplane, S3 presigned uploads.**
+**Offline-first real-time messenger built with React, .NET 10, SignalR and PostgreSQL.**
 
-- Idempotent message delivery: retries from the client never create duplicates
-- Server-side sync cursor: a client that was offline gets exactly the messages it missed
-- Integration tests against a real PostgreSQL and Redis in Docker
+- Real-time messaging with SignalR over WebSockets
+- Offline-First architecture with RxDB, IndexedDB and automatic synchronization
+- Idempotent message delivery — retries never create duplicates
+- Server-side delta synchronization — clients receive missed messages after reconnecting
+- Private conversations and group chats with media, voice messages, reactions, replies and forwarding
+- JWT authentication, refresh token rotation, email verification and password recovery
+- S3-compatible media storage (Yandex Object Storage)
+- Docker-based deployment with GitHub Actions CI/CD and automated deployment to Render
 
-`ASP.NET Core` `SignalR` `PostgreSQL` `Redis` `Docker` `xUnit`
+**Live demo:** [messenger1-g19r.onrender.com](https://messenger1-g19r.onrender.com)
+
+`React` `TypeScript` `C#` `.NET 10` `SignalR` `RxDB` `PostgreSQL` `EF Core` `Dapper` `Docker` `GitHub Actions`
 
 ---
 
