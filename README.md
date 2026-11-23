@@ -1,7 +1,8 @@
-<div align="center">
+ <div align="center">
 
 # Aleksey Shikin
-My site - [fozu-dev.site](https://fozu-dev.site)
+My site — [fozu-dev.site](https://fozu-dev.site)
+
 ### Backend Developer · C# / .NET
 
 Software Engineering student at Tomsk Polytechnic University.  
@@ -9,7 +10,7 @@ I build **APIs, real-time services and data-driven backend systems** on **ASP.NE
 Currently working on an offline-first messenger backend (idempotent delivery, server-side sync).  
 **Next up: Go and cloud-native infrastructure (message brokers, Kubernetes, AWS).**
 
-📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** ·  💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
+📧 **[Email](mailto:alekseylis211@mail.ru)** · 💬 **[Telegram](https://t.me/FozuZXC)** · 💻 **[LeetCode](https://leetcode.com/u/Fozuzzzxxxccc/)**
 
 </div>
 
@@ -45,6 +46,22 @@ Currently working on an offline-first messenger backend (idempotent delivery, se
 
 ---
 
+### 🎯 [IT Career Test — Where to Go in IT?](https://github.com/Fozu7916/ItTest)
+
+**Interactive career guidance service that helps users identify suitable IT specializations through a weighted scoring system.**
+
+- Quick test with 15 questions to identify the top 3 matching areas
+- Full test with 50 questions covering skills, interests and soft skills
+- Assessment across 14 IT specializations, including Backend, Frontend, ML, DevOps, QA and GameDev
+- Transparent results with a score breakdown instead of a generic recommendation
+- Fully client-side SPA — no backend required
+
+**Live demo:** [testforit.netlify.app](https://testforit.netlify.app/)
+
+`React` `TypeScript` `Vite` `Netlify`
+
+---
+
 ### 🛰️ [DroneLiDAR](https://github.com/Fozu7916/LidarMVP)
 
 **Reproducible comparison of LAS/LAZ point-cloud epochs: cut/fill volumes, ICP registration, DEM, SHA-256 manifest.**
@@ -69,18 +86,19 @@ Currently working on an offline-first messenger backend (idempotent delivery, se
 
 ---
 
-# 🛠️ Tech Stack 
+# 🛠️ Tech Stack
+
 ## 🔷 Primary: C# / .NET
-<p> <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/> </p>
+<p><img src="https://skillicons.dev/icons?i=cs,dotnet&perline=2" height="50"/></p>
 
 C# · .NET 8 · ASP.NET Core · Entity Framework Core · SignalR · LINQ · xUnit
 
 ## 🗄️ Data & Infrastructure
-<p> <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions&perline=6" height="50"/> </p>
+<p><img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux,git,githubactions&perline=6" height="50"/></p>
 
 PostgreSQL · Redis · Docker · Linux · Git · GitHub Actions
 
 ## 🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" height="50"/> </p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite&perline=6" height="50"/></p>
 
 HTML · CSS · JavaScript · TypeScript · React · Vite
