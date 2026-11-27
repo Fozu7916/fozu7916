@@ -56,7 +56,7 @@ Currently working on an offline-first messenger backend (idempotent delivery, se
 - Transparent results with a score breakdown instead of a generic recommendation
 - Fully client-side SPA — no backend required
 
-**Live demo:** [fozu7916.github.io/ItTest/](https://fozu7916.github.io/ItTest/))
+**Live demo:** [fozu7916.github.io/ItTest/](https://fozu7916.github.io/ItTest/)
 
 `React` `TypeScript` `Vite` `Netlify`
 
